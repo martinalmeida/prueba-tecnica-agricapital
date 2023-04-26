@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.01" height="31" viewBox="0 0 31.01 31">
+  <g id="agregar-usuario" transform="translate(0.51 0.5)">
+    <g id="Group_1169" data-name="Group 1169" transform="translate(0)">
+      <g id="Group_1168" data-name="Group 1168">
+        <path id="Path_30485" data-name="Path 30485" d="M21.617,15.053a15.336,15.336,0,0,0-1.77-.708,8,8,0,1,0-9.577,0A15.269,15.269,0,0,0,.077,25.706,3.564,3.564,0,0,0,3.57,30H18.055a1.172,1.172,0,1,0,0-2.344H3.57a1.2,1.2,0,0,1-.941-.446,1.221,1.221,0,0,1-.249-1.027A12.983,12.983,0,0,1,14.744,15.932q.155.006.312.006t.315-.006a12.851,12.851,0,0,1,5.237,1.239,1.173,1.173,0,1,0,1.01-2.117Zm-6.275-1.467-.287,0-.285,0a5.646,5.646,0,1,1,.572,0Z" transform="translate(0)" fill="#222" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_1171" data-name="Group 1171" transform="translate(19.001 19.001)">
+      <g id="Group_1170" data-name="Group 1170">
+        <path id="Path_30486" data-name="Path 30486" d="M331.841,326.342h-3.184v-3.184a1.158,1.158,0,0,0-2.316,0v3.184h-3.184a1.158,1.158,0,0,0,0,2.316h3.184v3.184a1.158,1.158,0,1,0,2.316,0v-3.184h3.184a1.158,1.158,0,0,0,0-2.316Z" transform="translate(-322 -322)" fill="#222" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
