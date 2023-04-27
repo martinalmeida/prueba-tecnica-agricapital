@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '@/views/home/HomeView.vue'
 import SimulatorView from '@/views/simulator/SimulatorView.vue'
 import View404 from '@/views/errors/404.vue'
 
@@ -8,11 +7,6 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: HomeView
-    },
-    {
-      path: '/simulador',
       name: 'simulador',
       component: SimulatorView
     },
